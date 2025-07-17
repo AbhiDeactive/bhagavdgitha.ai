@@ -1,1 +1,1 @@
-# bhagavdgitha.ai
+bhavadgit-ai-chatbot
